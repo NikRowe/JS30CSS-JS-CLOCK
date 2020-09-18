@@ -1,0 +1,16 @@
+{
+  "name": "js30_js_css_clock",
+  "version": "1.0.0",
+  "description": "js & css clock from Wes Bos JS 30",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nik Rowe",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
