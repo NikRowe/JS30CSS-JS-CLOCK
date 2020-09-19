@@ -1,2 +1,2 @@
 # JS30CSS-JS-Clock
-Tutorial #3 from Wes Bos JavaScript 30
+Tutorial #2 from Wes Bos JavaScript 30
