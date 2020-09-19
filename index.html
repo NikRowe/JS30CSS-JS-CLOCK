@@ -29,7 +29,7 @@
       secondHand.style.transform = `rotate(${secondsDegrees}deg)`; // rotates the hands by the seconds converted to degrees // 
 
       if (seconds == 0) {
-        secondHand.classList.add('noTransition')
+        secondHand.classList.add('noTransition') //removes the transition effect so that the second hand transitions smoothly instead of resets & rewinds. 
       } else {
         secondHand.classList.remove('noTransition')
       }
