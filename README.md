@@ -7,7 +7,7 @@ In this tutorial I learned how to manipulate the Date() method, and strengthened
 <br>
 <Code>
  if (seconds == 0) {
-    secondHand.classList.add('noTransition') //removes the transition effect so that the second hand transitions smoothly instead of resets & rewinds. 
+    secondHand.classList.add('noTransition')
  } else {
     secondHand.classList.remove('noTransition')
  }
